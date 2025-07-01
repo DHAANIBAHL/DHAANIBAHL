@@ -2,7 +2,7 @@
 My Awesome Project:
     "Works on my machine." – Probably Me
     
-Honestly? I don’t know anymore. It started as a simple idea and spiraled into something that haunts my dreams.
+Honestly? I don’t even know anymore. All my projects start as a simple idea and spiral into something that haunts my dreams.
 Welcome to the codebase where chaos meets creativity! This account contains Lotssss pf projects and is fueled by late-night caffeine, questionable Stack Overflow copy-pasting, and the occasional existential crisis.
 💾 What’s Inside?
 
