@@ -14,6 +14,5 @@ Welcome to the codebase where chaos meets creativity! This account contains Lots
 
     🐛 Bugs (bzzzzz....)
 
-🙃 Final Thoughts
-If you’ve read this far, you’re either really bored or really brave.
+🙃If you’ve read this far, you’re either really bored or really brave.
 Either way, thanks for visiting. Star the repo. Or don’t. I’m not your supervisor.
