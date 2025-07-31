@@ -77,10 +77,12 @@
 ---
 
 ### 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhaanibahl&theme=radical&margin-w=10&row=2&column=3" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dhaanibahl&theme=radical&row=1&column=3" alt="Trophies Row 1" />
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=dhaanibahl&theme=radical&row=1&column=3&title=Commits,Repositories,PullRequest" alt="Trophies Row 2" />
 </p>
+
 
 ---
 
