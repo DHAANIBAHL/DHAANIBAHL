@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhaani Bahl</h1>
 <h3 align="center">🚀 Passionate AI & ML Enthusiast | CS Student @ VIT Bhopal | Solving Real-World Problems Through Data</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhaanibahl&label=Profile%20views&color=0e75b6&style=flat" alt="dhaanibahl" />
-</p>
-
 ---
 
 ### 🔬 About Me
