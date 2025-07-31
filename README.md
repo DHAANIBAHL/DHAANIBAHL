@@ -19,16 +19,16 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/dhaani-bahl-15923024b/" target="_blank">
+  <a href="https://www.linkedin.com/in/dhaani-bahl-15923024b/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
   </a>
-  <a href="https://stackoverflow.com/users/22064084/dhaani-bahl" target="_blank">
+  <a href="https://stackoverflow.com/users/22064084/dhaani-bahl" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" height="30" width="30" />
   </a>
-  <a href="https://www.kaggle.com/dhaani0802" target="_blank">
+  <a href="https://www.kaggle.com/dhaani0802" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" height="30" width="30" />
   </a>
-  <a href="https://www.hackerrank.com/dhaanibahl" target="_blank">
+  <a href="https://www.hackerrank.com/dhaanibahl" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" height="30" width="30" />
   </a>
 </p>
