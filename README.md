@@ -88,17 +88,17 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=dhaanibahl&show_icons=true&theme=default" alt="GitHub Stats" width="100%" />
-
----
-
-### 🔥 GitHub Streak
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhaanibahl&theme=default" alt="GitHub Streak" width="100%" />
-
----
-
-### 🚀 Top Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhaanibahl&layout=compact&langs_count=6&theme=default" alt="Top Languages" width="100%" />
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=dhaanibahl&show_icons=true&locale=en" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhaanibahl&layout=compact&langs_count=6" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhaanibahl" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
