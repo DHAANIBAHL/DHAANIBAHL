@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dhaani Bahl</h1>
 <h3 align="center">I'm a passionate AI & ML enthusiast from India</h3>
 <h4 align="center">Honestly? I don’t even know anymore. All my projects start as a simple idea and spiral into something that haunts my dreams.
-Welcome to the codebase where chaos meets creativity! This account contains Lotssss pf projects and is fueled by late-night caffeine, questionable Stack Overflow copy-pasting, and the occasional existential crisis. 
+Welcome to the codebase where chaos meets creativity! This account contains Lotssss pf projects and is fueled by late-night caffeine, questionable Stack Overflow copy-pasting, and the occasional existential crisis./n
 💾 What’s Inside?
 
     🚀 Cutting-edge code (may or may not compile)
