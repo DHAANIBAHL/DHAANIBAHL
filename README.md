@@ -73,9 +73,15 @@
 ---
 
 ### 🏆 GitHub Trophies
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhaanibahl" alt="dhaanibahl" /></a> 
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=dhaanibahl&theme=radical&row=1&column=3" alt="Trophies Row 1" />
+    <br><br>
+    <img src="https://github-profile-trophy.vercel.app/?username=dhaanibahl&theme=radical&row=1&column=3&title=Commits,Repositories,PullRequest" alt="Trophies Row 2" />
+  </a>
 </p>
+
 
 
 ---
