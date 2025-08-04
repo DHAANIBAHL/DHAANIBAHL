@@ -22,12 +22,7 @@
 </p>
 
 ---
-### Contribution
-  
-![snake gif](https://github.com/DHAANIBAHL/DHAANIBAHL/blob/output/github-snake-dark.svg)
 
-
----
 
 ### 🛠️ Languages & Tools
 
@@ -78,21 +73,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dhaanibahl&row=1&column=3" alt="Trophies Row 1" />
-    <br><br>
-    <img src="https://github-profile-trophy.vercel.app/?username=dhaanibahl&row=1&column=3&title=Commits,Repositories,PullRequest" alt="Trophies Row 2" />
-  </a>
-</p>
-
-
-
-
----
-
 ### 📊 GitHub Stats
 
 <table align="left">
@@ -112,6 +92,13 @@
     </td>
   </tr>
 </table>
+
+---
+
+### Contribution
+  
+![snake gif](https://github.com/DHAANIBAHL/DHAANIBAHL/blob/output/github-snake-dark.svg)
+
 
 ---
 
