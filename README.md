@@ -109,7 +109,8 @@
 
 ---
 ### Contribution
+<div align="center>
+  
+![snake gif](https://github.com/DHAANIBAHL/DHAANIBAHL/blob/output/github-snake-dark.svg)
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-
+</div>
