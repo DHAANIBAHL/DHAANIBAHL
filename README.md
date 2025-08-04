@@ -22,6 +22,14 @@
 </p>
 
 ---
+### Contribution
+<div align="center>
+  
+![snake gif](https://github.com/DHAANIBAHL/DHAANIBAHL/blob/output/github-snake-dark.svg)
+
+</div>
+
+---
 
 ### 🛠️ Languages & Tools
 
@@ -108,9 +116,4 @@
 </table>
 
 ---
-### Contribution
-<div align="center>
-  
-![snake gif](https://github.com/DHAANIBAHL/DHAANIBAHL/blob/output/github-snake-dark.svg)
 
-</div>
