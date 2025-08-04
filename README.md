@@ -23,7 +23,6 @@
 
 ---
 
-
 ### 🛠️ Languages & Tools
 
 <p align="left"> 
@@ -75,28 +74,23 @@
 
 ### 📊 GitHub Stats
 
-<table align="left">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=dhaanibahl&show_icons=true&locale=en" alt="GitHub Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhaanibahl&layout=compact&langs_count=6" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhaanibahl" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+#### 🔹 GitHub Summary
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhaanibahl&show_icons=true&locale=en)
 
 ---
 
-### Contribution
-  
+#### 🔹 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhaanibahl&layout=compact&langs_count=6)
+
+---
+
+#### 🔹 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhaanibahl)
+
+---
+
+### 🐍 Contribution Snake
+
 ![snake gif](https://github.com/DHAANIBAHL/DHAANIBAHL/blob/output/github-snake-dark.svg)
 
 
