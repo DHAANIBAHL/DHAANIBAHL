@@ -1,98 +1,102 @@
 <h1 align="center">Hi 👋, I'm Dhaani Bahl</h1>
-<h3 align="center">🚀 Passionate AI & ML Enthusiast | CS Student @ VIT Bhopal | Solving Real-World Problems Through Data</h3>
+<h3 align="center">🚀 AI & ML Enthusiast | Data Science | Building Real-World Solutions</h3>
 
----
-
-### 🔬 About Me
-- 🔭 I’m currently working on **H1B Visa Prediction Model**
-- 👯 I’m looking to collaborate on **GirlScript Summer of Code 2025 (GSSoC'25)** as a contributor
-- 🌱 I’m currently learning **TensorFlow & PyTorch** to build deep learning models
-- 🎯 Interests: **Smart Cities | Urban Tech | Sustainability | Remote Sensing | Data-Driven Research**
-- 💡 I enjoy transforming raw data into real-world impact through AI/ML
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dhaani-bahl-15923024b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhaani-bahl-15923024b/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22064084/dhaani-bahl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22064084/dhaani-bahl" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/dhaani0802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/dhaani0802" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/dhaanibahl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/dhaanibahl" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhaani-bahl-15923024b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Dhaani%20Bahl-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://www.kaggle.com/dhaani0802">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle">
+  </a>
+  <a href="https://www.hackerrank.com/profile/dhaanibahl">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank">
+  </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+## 🔬 About Me
 
-<p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
+- 🎓 CS Student @ **VIT Bhopal**
+- 🔭 Currently building: **H1B Visa Prediction Model**
+- 🤖 Exploring: **Deep Learning (CNNs), GenAI, LLMs**
+- 🌍 Interested in: **Smart Cities, Sustainability, Remote Sensing**
+- ⚡ Goal: Turning **data into real-world impact**
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Driver Drowsiness Detection (CNN)
+- Built a deep learning model to detect eye state (open/closed)
+- Used image dataset with preprocessing & augmentation
+- Exploring **Transfer Learning (MobileNet)** for performance boost
+
+---
+
+### 📊 H1B Visa Prediction Model
+- Predicting visa approval using real-world dataset
+- Applied EDA, feature engineering & ML models
+- Focus on improving model accuracy and interpretability
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+`Python` `SQL` `JavaScript`
+
+### 📊 Data & ML
+`Pandas` `NumPy` `Scikit-learn` `TensorFlow`
+
+### ☁️ Tools & Platforms
+`AWS` `Git` `GitHub` `Power BI` `Qlik Sense`
+
+### 🌐 Web & Others
+`HTML` `CSS` `Bootstrap` `Django`
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhaanibahl&show_icons=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhaanibahl&layout=compact" height="160"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🔥 GitHub Streak
 
-#### 🔹 GitHub Summary
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhaanibahl&show_icons=true&locale=en)
-
----
-
-#### 🔹 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhaanibahl&layout=compact&langs_count=6)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhaanibahl"/>
+</p>
 
 ---
 
-#### 🔹 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhaanibahl)
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/dhaanibahl/dhaanibahl/blob/output/github-snake-dark.svg"/>
+</p>
 
 ---
 
-### 🐍 Contribution Snake
+## 💡 What I'm Learning Now
 
-![snake gif](https://github.com/DHAANIBAHL/DHAANIBAHL/blob/output/github-snake-dark.svg)
-
+- Deep Learning (CNNs + Transfer Learning)
+- Generative AI
+- Basics of LLMs
+- Real-world ML deployment
 
 ---
 
+## 🤝 Open to Collaborate
+
+- Open Source (GSSoC, ML projects)
+- Data Science & AI Projects
+- Research-based work
+
+---
+
+⭐ *Always learning, building, and improving.*
