@@ -1,102 +1,73 @@
 <h1 align="center">Hi 👋, I'm Dhaani Bahl</h1>
-<h3 align="center">🚀 AI & ML Enthusiast | Data Science | Building Real-World Solutions</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/dhaani-bahl-15923024b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Dhaani%20Bahl-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://www.kaggle.com/dhaani0802">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle">
-  </a>
-  <a href="https://www.hackerrank.com/profile/dhaanibahl">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank">
-  </a>
-</p>
+<h3 align="center">AI & ML Enthusiast | Building Real-World Data Solutions</h3>
 
 ---
 
-## 🔬 About Me
+## 👩‍💻 About Me
 
-- 🎓 CS Student @ **VIT Bhopal**
-- 🔭 Currently building: **H1B Visa Prediction Model**
-- 🤖 Exploring: **Deep Learning (CNNs), GenAI, LLMs**
-- 🌍 Interested in: **Smart Cities, Sustainability, Remote Sensing**
-- ⚡ Goal: Turning **data into real-world impact**
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 Driver Drowsiness Detection (CNN)
-- Built a deep learning model to detect eye state (open/closed)
-- Used image dataset with preprocessing & augmentation
-- Exploring **Transfer Learning (MobileNet)** for performance boost
+- 🎓 CS Student at VIT Bhopal  
+- 🔭 Working on **H1B Visa Prediction Model**  
+- 🌱 Learning **Deep Learning (CNNs), TensorFlow, PyTorch**  
+- 🎯 Interests: Smart Cities, Sustainability, Remote Sensing  
+- ⚡ I like turning data into practical solutions  
 
 ---
 
-### 📊 H1B Visa Prediction Model
-- Predicting visa approval using real-world dataset
-- Applied EDA, feature engineering & ML models
-- Focus on improving model accuracy and interpretability
+## 🚀 Projects
+
+### 🧠 Driver Drowsiness Detection
+- Built a CNN model to classify **open vs closed eyes**
+- Used image preprocessing and data generators
+- Exploring **transfer learning** to improve accuracy  
+
+### 📊 H1B Visa Prediction
+- Predicting visa approval using ML models  
+- Performed EDA, feature engineering, and model evaluation  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-`Python` `SQL` `JavaScript`
+**Languages:**  
+Python, SQL, JavaScript  
 
-### 📊 Data & ML
-`Pandas` `NumPy` `Scikit-learn` `TensorFlow`
+**ML & Data:**  
+Pandas, NumPy, Scikit-learn, TensorFlow  
 
-### ☁️ Tools & Platforms
-`AWS` `Git` `GitHub` `Power BI` `Qlik Sense`
+**Tools:**  
+Git, GitHub, AWS, Power BI, Qlik  
 
-### 🌐 Web & Others
-`HTML` `CSS` `Bootstrap` `Django`
+**Web:**  
+HTML, CSS, Bootstrap, Django  
 
 ---
 
-## 📈 GitHub Stats
+## 🌐 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/dhaani-bahl-15923024b/  
+- Kaggle: https://www.kaggle.com/dhaani0802  
+- HackerRank: https://www.hackerrank.com/profile/dhaanibahl  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhaanibahl&show_icons=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhaanibahl&layout=compact" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dhaanibahl&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhaanibahl&layout=compact" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhaanibahl"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhaanibahl" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/dhaanibahl/dhaanibahl/blob/output/github-snake-dark.svg"/>
-</p>
-
----
-
-## 💡 What I'm Learning Now
-
-- Deep Learning (CNNs + Transfer Learning)
-- Generative AI
-- Basics of LLMs
-- Real-world ML deployment
-
----
-
-## 🤝 Open to Collaborate
-
-- Open Source (GSSoC, ML projects)
-- Data Science & AI Projects
-- Research-based work
-
----
-
-⭐ *Always learning, building, and improving.*
+⭐ Always learning and building.
