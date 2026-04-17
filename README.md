@@ -71,6 +71,6 @@
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://github.com/DHAANIBAHL/DHAANIBAHL/blob/output/github-snake.svg)
+![snake gif](https://github.com/DHAANIBAHL/DHAANIBAHL/blob/output/github-snake-dark.svg)
 
 ---
