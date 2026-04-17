@@ -87,3 +87,15 @@ jobs:
           # Optionally, you can set a custom commit message
 
           commit_message: "Update snake animation [skip ci]"
+
+on:
+  schedule:
+    - cron: "30 18 * * *"   # midnight IST = 18:30 UTC — catches Apr 12 IST contributions
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Kolkata       # anchors the contribution day boundary to IST
+
