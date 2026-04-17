@@ -25,8 +25,6 @@
 
 ### 🛠️ Languages & Tools
 
-### 🛠️ Languages & Tools
-
 <p align="left">
   <!-- Row 1 -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
@@ -55,7 +53,7 @@
 ---
 
 ### 📊 GitHub Stats
-
+---
 #### 🔹 GitHub Summary
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhaanibahl&show_icons=true&locale=en)
 
