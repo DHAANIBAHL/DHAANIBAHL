@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6c47ff,50:a855f7,75:ec4899,100:f97316&height=200&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Dhaani%20Bahl&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%40%20VIT%20Bhopal%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Turning%20Data%20into%20Impact&descAlignY=58&descSize=16&descColor=ffffff" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6c47ff,50:a855f7,75:ec4899,100:f97316&height=200&section=header&text=Hi%20I%27m%20Dhaani%20Bahl&fontSize=40&fontColor=ffffff&fontAlignY=40" alt="header"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -33,6 +33,10 @@
       <img src="https://img.shields.io/badge/Currently%20Learning-ec4899?style=flat-square&logoColor=white" alt="learning"/>
       <br/>TensorFlow &amp; PyTorch for deep learning
     </td>
+    <td>
+      <img src="https://img.shields.io/badge/Working%20At-1f2937?style=flat-square&logoColor=white" alt="working"/>
+      <br/>Performance Analysis & Visualization Intern @ EY
+    </td>
   </tr>
   <tr>
     <td>
@@ -42,6 +46,10 @@
     <td>
       <img src="https://img.shields.io/badge/Interests-f97316?style=flat-square&logoColor=white" alt="interests"/>
       <br/>CNNs · LLMs · Computer Vision · GenAI
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Fun%20Fact-a855f7?style=flat-square&logoColor=white" alt="fun"/>
+      <br/>I enjoy turning messy data into clean insights ✨
     </td>
   </tr>
 </table>
