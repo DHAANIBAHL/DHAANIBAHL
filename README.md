@@ -1,11 +1,11 @@
 <!-- Hero Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6c47ff,50:a855f7,75:ec4899,100:f97316&height=200&section=header&text=Hi%20I%27m%20Dhaani%20Bahl&fontSize=40&fontColor=ffffff&fontAlignY=40" alt="header"/>
-
 <!-- Typing SVG -->
+<div align="center">
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=6C47FF&center=true&vCenter=true&width=600&lines=Building+an+H1B+Visa+Prediction+Model;Learning+TensorFlow+%26+PyTorch;Contributing+to+GSSoC+%2725;Exploring+LLMs+%26+Generative+AI;Turning+raw+data+into+real+impact" alt="Typing SVG"/>
 </a>
-
+  
 <br/>
 
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-6c47ff?style=for-the-badge&logoColor=white)
