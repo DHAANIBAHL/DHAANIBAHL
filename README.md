@@ -1,5 +1,6 @@
 <!-- Hero Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6c47ff,50:a855f7,75:ec4899,100:f97316&height=200&section=header&text=Hi%20I%27m%20Dhaani%20Bahl&fontSize=40&fontColor=ffffff&fontAlignY=40" alt="header"/>
+
 <!-- Typing SVG -->
 <div align="center">
 <a href="https://git.io/typing-svg">
@@ -31,7 +32,7 @@
       <br/>TensorFlow &amp; PyTorch for deep learning
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Working%20At-1f2937?style=flat-square&logoColor=white" alt="working"/>
+      <img src="https://img.shields.io/badge/Working%20At-ffd700?style=flat-square&logoColor=black" alt="working"/>
       <br/>Performance Analysis & Visualization Intern @ EY
     </td>
   </tr>
