@@ -25,7 +25,7 @@
   <tr>
     <td>
       <img src="https://img.shields.io/badge/Currently%20Building-6c47ff?style=flat-square&logoColor=white" alt="building"/>
-      <br/>H1B Visa Prediction Model
+      <br/>Sales and Campaign analysis model for forecasting and inventory planning
     </td>
     <td>
       <img src="https://img.shields.io/badge/Currently%20Learning-ec4899?style=flat-square&logoColor=white" alt="learning"/>
