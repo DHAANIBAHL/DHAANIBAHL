@@ -4,16 +4,16 @@
 <!-- Typing SVG -->
 <div align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=6C47FF&center=true&vCenter=true&width=600&lines=Building+Automobile+Sales+and+Campaign+Data+Analysis+Model;Learning+TensorFlow+%26+PyTorch;Contributing+to+GSSoC+%2725;Exploring+LLMs+%26+Generative+AI;Turning+raw+data+into+real+impact" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=6C47FF&center=true&vCenter=true&width=600&lines=Building+No-Code+Automation+Workflows;Learning+LangChain+%26+RAG;Exploring+LLMs+%26+Generative+AI;Learning+TensorFlow+%26+PyTorch;Turning+raw+data+into+real+impact" alt="Typing SVG"/>
 </a>
   
 <br/>
 
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-6c47ff?style=for-the-badge&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-a855f7?style=for-the-badge&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-ec4899?style=for-the-badge&logoColor=white)
+![AI Automation](https://img.shields.io/badge/AI%20Automation-6c47ff?style=for-the-badge&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-a855f7?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-ec4899?style=for-the-badge&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-f97316?style=for-the-badge&logoColor=white)
-![CNNs](https://img.shields.io/badge/CNNs-6c47ff?style=for-the-badge&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-6c47ff?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -24,26 +24,26 @@
 <table>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/Currently%20Building-6c47ff?style=flat-square&logoColor=white" alt="building"/>
-      <br/>Sales and Campaign analysis model for forecasting and inventory planning
+      <img src="https://img.shields.io/badge/Currently%20Working%20On-6c47ff?style=flat-square&logoColor=white" alt="working on"/>
+      <br/>Developing no-code automation workflows
     </td>
     <td>
       <img src="https://img.shields.io/badge/Currently%20Learning-ec4899?style=flat-square&logoColor=white" alt="learning"/>
-      <br/>TensorFlow &amp; PyTorch for deep learning
+      <br/>LangChain &amp; Retrieval-Augmented Generation (RAG)
     </td>
     <td>
       <img src="https://img.shields.io/badge/Working%20At-ffd700?style=flat-square&logoColor=black" alt="working"/>
-      <br/>Performance Analysis & Visualization Intern @ EY
+      <br/>AI Automation Intern @ VoltusWave
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/Looking%20to%20Collaborate-3b82f6?style=flat-square&logoColor=white" alt="collaborate"/>
-      <br/>GirlScript Summer of Code 2025 (GSSoC'25)
+      <img src="https://img.shields.io/badge/Interests-f97316?style=flat-square&logoColor=white" alt="interests"/>
+      <br/>LLMs · Generative AI · AI Automation · Deep Learning
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Interests-f97316?style=flat-square&logoColor=white" alt="interests"/>
-      <br/>CNNs · LLMs · Computer Vision · GenAI
+      <img src="https://img.shields.io/badge/Exploring-3b82f6?style=flat-square&logoColor=white" alt="exploring"/>
+      <br/>RAG · LangGraph · AI-powered workflows
     </td>
     <td>
       <img src="https://img.shields.io/badge/Fun%20Fact-a855f7?style=flat-square&logoColor=white" alt="fun"/>
@@ -100,16 +100,18 @@
 
 ---
 
-### 📊 GitHub stats
-
+### 🧠 Currently Exploring
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhaanibahl&timezone=Asia%2FKolkata&hide_border=true&date_format=j%20M%5B%20Y%5D&theme=tokyonight" alt="GitHub Streak"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=dhaanibahl&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhaanibahl&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages"/>
+<img src="https://img.shields.io/badge/AI%20Automation-6c47ff?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-a855f7?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-ec4899?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-f97316?style=for-the-badge&logoColor=white"/>
+
+<br/><br/>
+
+Building no-code automation workflows · Learning LLM application development · Exploring RAG & graph-based AI workflows
 
 </div>
 
